@@ -7,7 +7,7 @@
 version: 1.0.0
 name: priority-class-policy
 displayName: Priority class policy
-createdAt: 2025-05-02T16:38:21.280170336Z
+createdAt: 2025-05-02T16:49:29.388774326Z
 description: Validates Pod's priority class
 license: Apache-2.0
 homeURL: https://github.com/kubewarden/priority-class-policy
